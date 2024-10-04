@@ -13,6 +13,8 @@ padding: 20px;
 display: flex;
 justify-content: center;
 align-items: center;
+    position:sticky;
+    top:0;
 }
 
 .header h1{
